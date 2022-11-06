@@ -1,4 +1,2 @@
-
-Voornaam: 			Orlando
-
-Naam: 			Mollaert
+Naam: Mollaert
+Voornaam: Orlando
